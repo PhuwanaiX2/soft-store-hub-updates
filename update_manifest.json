@@ -1,7 +1,7 @@
 {
   "version": "1.2.1",
   "downloadUrl": "https://github.com/PhuwanaiX2/soft-store-hub-updates/releases/download/v1.2.1/SoftStoreHub-1.2.1.exe",
-  "sha256": "0f0d5bb639dca853ac6d387ba8bfcaae98b2aa55ae3e52a29626778e17c9a08f",
+  "sha256": "4145c30111260f3a589e59c8cd2f5c697084d34ecf26af276d4f48b2f4bcc39e",
   "forceUpdate": false,
   "changelog": [
     "Bootstrap auto update channel",

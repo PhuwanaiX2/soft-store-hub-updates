@@ -6,6 +6,7 @@ Public update channel for Soft Store Hub.
 
 - `update_manifest.json` is the launcher update manifest.
 - Release assets contain the actual Windows executable packages.
+- GitHub Pages serves the manifest at `https://phuwanaix2.github.io/soft-store-hub-updates/update_manifest.json`.
 
 ## Release Checklist
 
