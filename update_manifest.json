@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/PhuwanaiX2/soft-store-hub-updates/releases/download/v1.2.1/SoftStoreHub-1.2.1.exe",
-  "sha256": "b850ee3fb3ef02bc605767d06efc576388739e6d61a584c2622c11cc859d6d85",
+  "version": "1.2.5",
+  "downloadUrl": "https://github.com/PhuwanaiX2/soft-store-hub-updates/releases/download/v1.2.5/SoftStoreHub-1.2.5.exe",
+  "sha256": "31e9ed6f29567879c4618c91d9275cc7f2735d750dafdeae2c98d79882b8ff08",
   "forceUpdate": false,
   "changelog": [
-    "Bootstrap auto update channel",
-    "Use GitHub-hosted HTTPS update manifest",
-    "Verify downloaded update with SHA256 before install"
+    "Show a clear update progress screen during download and install",
+    "Keep runtime data, cache, and update staging in AppData",
+    "Add README in AppData explaining this is a FiveM server hub, not a cheat tool"
   ]
 }
