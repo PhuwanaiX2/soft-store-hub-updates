@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "downloadUrl": "https://github.com/PhuwanaiX2/soft-store-hub-updates/releases/download/v1.2.5/SoftStoreHub-1.2.5.exe",
-  "sha256": "31e9ed6f29567879c4618c91d9275cc7f2735d750dafdeae2c98d79882b8ff08",
+  "version": "1.2.6",
+  "downloadUrl": "https://github.com/PhuwanaiX2/soft-store-hub-updates/releases/download/v1.2.6/SoftStoreHub-1.2.6.exe",
+  "sha256": "848f7ea7f63fe77464dd5a7710a19e3cb4a3610c7d48718206d8584529758633",
   "forceUpdate": false,
   "changelog": [
-    "Show a clear update progress screen during download and install",
-    "Keep runtime data, cache, and update staging in AppData",
-    "Add README in AppData explaining this is a FiveM server hub, not a cheat tool"
+    "Fix FiveM post-update join detection",
+    "Retry connect protocol after FiveM master process is ready",
+    "Support new truncated GTA process log format"
   ]
 }
